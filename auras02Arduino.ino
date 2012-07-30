@@ -33,7 +33,6 @@ void setup() {
 
   // pin stuff
   digitalWrite(13,ledState);
-  digitalWrite(12,ledState);
   analogReference(DEFAULT);    // 5V  
   //analogReference(EXTERNAL);   // 
   //analogReference(INTERNAL);    // 1.1V
